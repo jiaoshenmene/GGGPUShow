@@ -1,0 +1,32 @@
+{
+  "name": "GGGPUProject",
+  "version": "0.0.1",
+  "summary": "A marquee view used on iOS.",
+  "homepage": "https://github.com/jiaoshenmene/GGGPUProject",
+  "license": "MIT",
+  "authors": {
+    "杜甲": "815319775@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/jiaoshenmene/GGGPUProject.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "GGGPUProjecCode/**/*.{h,m}",
+  "frameworks": [
+    "UIKit",
+    "VideoToolbox",
+    "QuartzCore",
+    "OpenGLES",
+    "MobileCoreServices",
+    "MediaPlayer",
+    "CoreVideo",
+    "CoreMedia",
+    "CoreGraphics",
+    "AVFoundation",
+    "AudioToolbox"
+  ]
+}

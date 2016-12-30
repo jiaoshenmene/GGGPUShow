@@ -1,0 +1,19 @@
+PODS:
+  - GGGPUProject (0.0.1)
+  - GPUImage (0.1.7)
+
+DEPENDENCIES:
+  - GGGPUProject (from `/Users/sogou/Work/MYGit/GGLibs/GPUDemo/GGGPUProject`)
+  - GPUImage
+
+EXTERNAL SOURCES:
+  GGGPUProject:
+    :path: /Users/sogou/Work/MYGit/GGLibs/GPUDemo/GGGPUProject
+
+SPEC CHECKSUMS:
+  GGGPUProject: c27a40b89f1499e513c5e994254324098be537f1
+  GPUImage: 733a5f0fab92df9de1c37ba9df520a833ccb406d
+
+PODFILE CHECKSUM: ec0418fbce290e31b81c65254ad1414f7d63de4f
+
+COCOAPODS: 1.2.0.beta.1
